@@ -75,10 +75,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
-## `Clone Repo & Installation dependencies`
+## `Cloner Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD8.git
-cd CheemsBot-MD8
+
+https://github.com/Senkuatsume/ATSUME-MD-V2.git
+
 
 npm start
 ```
