@@ -2,7 +2,7 @@
 
 <h1 align="center">ATSUME-MD<br></h1>
 <p align="center">
-<img src="https://iili.io/29qAvzG.jpg" width="540" height="280" />
+<img src="https://files.catbox.moe/p3ysrb.jpg" width="540" height="300" />
 </p>
 
 <p align="center">
